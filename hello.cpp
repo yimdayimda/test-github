@@ -2,4 +2,5 @@
 
 int main(){
   cout >> "hi";
+  cout >> "hi all"
 }
