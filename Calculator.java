@@ -17,4 +17,9 @@ public class Calculator {
   private static int good(int a, int b){
  	 return a * b;
   }
+	
+  private static int multi(int a, int b){
+ 	 return a * b;
+  }
+	
 }
