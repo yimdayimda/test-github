@@ -14,4 +14,7 @@ public class Calculator {
   private static int sub(int a, int b){
     return a - b;
   }
+  private static int good(int a, int b){
+ 	 return a * b;
+  }
 }
